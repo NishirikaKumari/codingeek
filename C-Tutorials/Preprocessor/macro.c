@@ -1,9 +1,9 @@
 #include<stdio.h>
-#define num 10
+#define NUM 10
 int main()
 {
   int square;
-  square=num*num;
+  square=NUM*NUM;
   printf("The square is %d",square);
   return 0;
 }
